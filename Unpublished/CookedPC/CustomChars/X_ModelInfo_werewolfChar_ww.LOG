@@ -1,0 +1,109 @@
+
+
+ Unreal skeletal exporter for Maya - Model information for [werewolfChar_ww.psk] 
+
+ Skin faces:  10484
+ Skin vertices:   6215
+ Skin wedges (vertices with unique U,V):   8007
+ Total bone-to-vertex linkups:   9451
+ Reference bones:     73
+ Unique materials:      4
+
+ = materials =
+ * Index: [ 0]  name: b_LeftWeaponSG  
+   Original bitmap: unknown_bitmap.bmp  Path: 
+    - Skin Index:  0
+   - render mode flags:
+		- Invisible
+ * Index: [ 1]  name: b_RightWeaponSG  
+   Original bitmap: unknown_bitmap.bmp  Path: 
+    - Skin Index:  0
+   - render mode flags:
+		- Invisible
+ * Index: [ 2]  name: lambert2SG  
+   Original bitmap: outUVbody_textured_ww.tga  Path: C:\Documents and Settings\ckustra1\Desktop\modifyingKrall\textures
+    - Skin Index:  0
+   - render mode flags:
+ * Index: [ 3]  name: lambert4SG  
+   Original bitmap: outUVFace_textured_ww.tga  Path: C:\Documents and Settings\ckustra1\Desktop\modifyingKrall\textures
+    - Skin Index:  0
+   - render mode flags:
+ 
+
+ BONE LIST        [73] total bones in reference skeleton. 
+  number     name                           (parent) 
+  [  0 ]    [b_Hips                         ]      (  0 ) 
+  [  1 ]    [b_LeftLegUpper                 ]      (  0 ) 
+  [  2 ]    [b_LeftLeg                      ]      (  1 ) 
+  [  3 ]    [b_LeftLegCannon                ]      (  2 ) 
+  [  4 ]    [b_LeftFoot                     ]      (  3 ) 
+  [  5 ]    [b_RightLegUpper                ]      (  0 ) 
+  [  6 ]    [b_RightLeg                     ]      (  5 ) 
+  [  7 ]    [b_RightLegCannon               ]      (  6 ) 
+  [  8 ]    [b_RightFoot                    ]      (  7 ) 
+  [  9 ]    [b_Spine                        ]      (  0 ) 
+  [ 10 ]    [b_Spine1                       ]      (  9 ) 
+  [ 11 ]    [b_Spine2                       ]      ( 10 ) 
+  [ 12 ]    [b_LeftClav                     ]      ( 11 ) 
+  [ 13 ]    [b_LeftArm                      ]      ( 12 ) 
+  [ 14 ]    [b_LeftForeArm                  ]      ( 13 ) 
+  [ 15 ]    [b_LeftHand                     ]      ( 14 ) 
+  [ 16 ]    [b_LeftMiddle1                  ]      ( 15 ) 
+  [ 17 ]    [b_LeftMiddle2                  ]      ( 16 ) 
+  [ 18 ]    [b_LeftMilddle3                 ]      ( 17 ) 
+  [ 19 ]    [b_LeftIndex1                   ]      ( 15 ) 
+  [ 20 ]    [b_LeftIndex2                   ]      ( 19 ) 
+  [ 21 ]    [b_LeftIndex3                   ]      ( 20 ) 
+  [ 22 ]    [b_LeftRing1                    ]      ( 15 ) 
+  [ 23 ]    [b_LeftRing2                    ]      ( 22 ) 
+  [ 24 ]    [b_LeftRing3                    ]      ( 23 ) 
+  [ 25 ]    [b_LeftPinky1                   ]      ( 15 ) 
+  [ 26 ]    [b_LeftPinky2                   ]      ( 25 ) 
+  [ 27 ]    [b_LeftPinky3                   ]      ( 26 ) 
+  [ 28 ]    [b_LeftThumb1                   ]      ( 15 ) 
+  [ 29 ]    [b_LeftThumb2                   ]      ( 28 ) 
+  [ 30 ]    [b_LeftThumb3                   ]      ( 29 ) 
+  [ 31 ]    [b_LeftForeArmRoll              ]      ( 14 ) 
+  [ 32 ]    [b_LeftArmRoll                  ]      ( 13 ) 
+  [ 33 ]    [b_LeftShoulderPad              ]      ( 12 ) 
+  [ 34 ]    [b_Neck                         ]      ( 11 ) 
+  [ 35 ]    [b_Head                         ]      ( 34 ) 
+  [ 36 ]    [b_jaw                          ]      ( 35 ) 
+  [ 37 ]    [b_RightClav                    ]      ( 11 ) 
+  [ 38 ]    [b_RightArm                     ]      ( 37 ) 
+  [ 39 ]    [b_RightForeArm                 ]      ( 38 ) 
+  [ 40 ]    [b_RightHand                    ]      ( 39 ) 
+  [ 41 ]    [b_RightMiddle1                 ]      ( 40 ) 
+  [ 42 ]    [b_RightMiddle2                 ]      ( 41 ) 
+  [ 43 ]    [b_RightMiddle3                 ]      ( 42 ) 
+  [ 44 ]    [b_RightIndex1                  ]      ( 40 ) 
+  [ 45 ]    [b_RightIndex2                  ]      ( 44 ) 
+  [ 46 ]    [b_RightIndex3                  ]      ( 45 ) 
+  [ 47 ]    [b_RightThumb1                  ]      ( 40 ) 
+  [ 48 ]    [b_RightThumb2                  ]      ( 47 ) 
+  [ 49 ]    [b_RightThumb3                  ]      ( 48 ) 
+  [ 50 ]    [b_RightRing1                   ]      ( 40 ) 
+  [ 51 ]    [b_RightRing2                   ]      ( 50 ) 
+  [ 52 ]    [b_RightRing3                   ]      ( 51 ) 
+  [ 53 ]    [b_RightPinky1                  ]      ( 40 ) 
+  [ 54 ]    [b_RightPinky2                  ]      ( 53 ) 
+  [ 55 ]    [b_RightPinky3                  ]      ( 54 ) 
+  [ 56 ]    [b_RightForeArmRoll             ]      ( 39 ) 
+  [ 57 ]    [b_RightArmRoll                 ]      ( 38 ) 
+  [ 58 ]    [b_RightShoulderPad             ]      ( 37 ) 
+  [ 59 ]    [b_cloth_back_01                ]      (  0 ) 
+  [ 60 ]    [b_cloth_back_02                ]      ( 59 ) 
+  [ 61 ]    [b_cloth_back_03                ]      ( 60 ) 
+  [ 62 ]    [b_cloth_back_04                ]      ( 61 ) 
+  [ 63 ]    [b_cloth_back_05                ]      ( 61 ) 
+  [ 64 ]    [b_cloth_left_01                ]      (  0 ) 
+  [ 65 ]    [b_cloth_left_02                ]      ( 64 ) 
+  [ 66 ]    [b_cloth_left_03                ]      ( 65 ) 
+  [ 67 ]    [b_cloth_right_01               ]      (  0 ) 
+  [ 68 ]    [b_cloth_right_02               ]      ( 67 ) 
+  [ 69 ]    [b_cloth_right_03               ]      ( 68 ) 
+  [ 70 ]    [b_cloth_front_01               ]      (  0 ) 
+  [ 71 ]    [b_cloth_front_02               ]      ( 70 ) 
+  [ 72 ]    [b_cloth_front_03               ]      ( 71 ) 
+ 
+
